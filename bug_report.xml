@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
  <Bug-ID>1</Bug-ID>
- <Title>"Карточка продукта "MAKEUP REVOLUTION Conceal & Define Full Coverage Concealer" находится во вкладке для другого типа продукта"</Title>
+ <Title>"Карточка продукта "MAKEUP REVOLUTION Conceal and Define Full Coverage Concealer" находится во вкладке для другого типа продукта"</Title>
  <Project>tint.com</Project>
  <STR>1. Открыть страницу входа</STR>
  <STR>2. Клик по кнопке [Live camera] </STR>
  <STR>3. Пройти Face analysis</STR>
- <AR>MAKEUP REVOLUTION Conceal & Define Full Coverage Concealer" находится во вкладке [Contour]</AR>
+ <AR>MAKEUP REVOLUTION Conceal and Define Full Coverage Concealer" находится во вкладке [Contour]</AR>
  <ER>Карточка продукта "MAKEUP REVOLUTION
-Conceal & Define Full Coverage Concealer" находится во вкладке [Concealer]</ER>
+Conceal and Define Full Coverage Concealer" находится во вкладке [Concealer]</ER>
  <Environment>
    <OS>Windows 10 PRO 64-bit operating system, x64 processor</OS>
    <Browser>Google Chrome Version 102.0.5005.63 (Official build), (64 bit)</Browser>
