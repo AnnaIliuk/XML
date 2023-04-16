@@ -1,14 +1,13 @@
-{
-   "person":{
-        "first_name":"Anna",
-        "middle_name":"Sergeevna",
-        "last_name":"Iliuk",
-        "age":28,
-        "pets":{
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+ <first_name>Anna</first_name>
+ <middle_name>Sergeevna</middle_name>
+ <last_name>Iliuk</last_name>
+ <age>28</age>
+ <pet>
+   <dog>1</dog>
+ </pet>
+ <salary>1000$</salary>
+</person>
 
-                "dog":1
-        },
-        "salary":"1000$"
-   }
 
-}
