@@ -1,0 +1,14 @@
+{
+   "person":{
+        "first_name":"Anna",
+        "middle_name":"Serveegna",
+        "last_name":"Iliuk",
+        "age":28,
+        "pets":{
+
+                "dog":1
+        },
+        "salary":"1000$"
+   }
+
+}
