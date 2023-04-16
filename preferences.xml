@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+ <favorite_movie>Black Swan</favorite_movie>
+ <favorite_TV_series>American housewife</favorite_TV_series>
+ <favorite_food>sushi</favorite_food>
+  <favorite_food>burger</favorite_food>
+ <favorite_food>lasagne</favorite_food>
+ <favorite_time_year>summer</favorite_time_year>
+ <country>Russia</country>
+</root>
